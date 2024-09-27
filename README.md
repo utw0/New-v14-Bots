@@ -13,7 +13,7 @@
 
 | Komut                  | Görsel                                                                                                 |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| **stat**               |                                                                                                        |
+| **stat**               |    ![image](https://github.com/user-attachments/assets/094ab9eb-d9c7-4f8b-aa4e-64ba6c33410e)           |
 | **stat chart mesaj**   |   ![image](https://github.com/user-attachments/assets/1bb37892-af08-4778-8b28-b1588ebed5e1)            |
 | **stat arkadaş**       |   ![image](https://github.com/user-attachments/assets/bdcf7b2a-48b8-43a6-8aa9-6e5c31976bce)            |
 | **top anasayfa**       |   ![image](https://github.com/user-attachments/assets/bde64c0e-87df-4021-84d2-6344ba72d849)            |
