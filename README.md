@@ -18,7 +18,7 @@
 | **stat arkadaş**       |   ![image](https://github.com/user-attachments/assets/bdcf7b2a-48b8-43a6-8aa9-6e5c31976bce)            |
 | **top anasayfa**       |   ![image](https://github.com/user-attachments/assets/bde64c0e-87df-4021-84d2-6344ba72d849)            |
 | **top**                |  ![image](https://github.com/user-attachments/assets/1cbc47d8-0676-4b24-bdb5-efae76db8e88)             |
-| **level**              | ![image](https://github.com/user-attachments/assets/66854ba7-c3c5-41f5-9e19-59da70c2673a)              |
+| **level**              | ![image](https://github.com/user-attachments/assets/008b83ea-f577-4236-b941-6fb275ef6e9e)              |
 | **invite**             | ![image](https://github.com/user-attachments/assets/551e170b-d5e4-4298-a457-1f19039d14f7)              |
 </details>
 
