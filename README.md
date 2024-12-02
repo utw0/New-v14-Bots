@@ -21,5 +21,3 @@
 | **level**              | ![image](https://github.com/user-attachments/assets/008b83ea-f577-4236-b941-6fb275ef6e9e)              |
 | **invite**             | ![image](https://github.com/user-attachments/assets/551e170b-d5e4-4298-a457-1f19039d14f7)              |
 </details>
-
-
