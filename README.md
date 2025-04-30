@@ -1,5 +1,8 @@
 ## SATILIK
 Geliştirmekte olduğum public botum
+
+Detaylı incelemek için bana discorddan ulaşın
+
 Proje uygun fiyata satılacak detaylı acıklama bilgi almak için discorddan bana ulaşabilirsiniz [luhux](https://discord.com/users/341592492224806914)
 
 ## ✨ Özellikler
