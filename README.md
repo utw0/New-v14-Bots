@@ -30,5 +30,31 @@ Proje uygun fiyata satılacak detaylı acıklama bilgi almak için discordtan ba
 
 </details>
 
+<details>
+  <summary>Kayıt Sistemleri</summary>
+</details>
+<details>
+  <summary>Moderasyon Sistemleri</summary>
+</details>
+<details>
+  <summary>Owner Sistemleri</summary>
+</details>
+<details>
+  <summary>Yetkili Sistemleri</summary>
+</details>
+<details>
+  <summary>Stat Sistemleri</summary>
+</details>
+<details>
+  <summary>Görev Sistemleri</summary>
+</details>
+<details>
+  <summary>Bot Sahibi Sistemleri</summary>
+</details>
+<details>
+  <summary>Global Sistemleri</summary>
+</details>
+
+
 ##  Author & Lisence
 Telif Hakkı © 2024 [Utku KÖSEM](https://github.com/utw0). Bu proje GNU Genel Kamu Lisansı v3.0 ile lisanslanmıştır.
