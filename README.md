@@ -31,12 +31,15 @@ Proje uygun fiyata satılacak detaylı acıklama bilgi almak için discordtan ba
 </details>
 <details>
   <summary>Panels Sistemleri</summary>
+
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | Özel Oda | <img alt="image" src= "https://github.com/user-attachments/assets/f4af7a55-b4cb-4620-a1d2-ac86bd24dae4"> |
 | Streamer Başvuru | <img alt="image" src= "https://github.com/user-attachments/assets/4849660b-144b-466b-89a5-93c1efdb1667"> |
 | Streamer Panel | <img alt="image" src= "https://github.com/user-attachments/assets/d7fa4893-82b8-4037-988e-0851f76275b7"> |
+
 </details>
+
 <details>
   <summary>Kayıt Sistemleri</summary>
 </details>
