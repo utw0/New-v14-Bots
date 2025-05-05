@@ -30,7 +30,7 @@ Proje uygun fiyata satılacak detaylı acıklama bilgi almak için discordtan ba
 
 </details>
 <details>
-  <summary>Panels Sistemleri
+  <summary>Panels Sistemleri</summary>
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | Özel Oda | <img alt="image" src= "https://github.com/user-attachments/assets/f4af7a55-b4cb-4620-a1d2-ac86bd24dae4"> |
